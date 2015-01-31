@@ -1,0 +1,17 @@
+#contenedor{
+		background:white;
+		margin:0 auto;
+		max-width:700px;
+		}
+
+#cuerpo1 article{
+			background:white;
+			color:black;
+			display:inline-block;
+			margin:10px;
+			padding:10px;
+			}	
+body{
+
+	background: red;
+}
