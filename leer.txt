@@ -1,2 +1,2 @@
 Este es un documento de pagina web prueba
-fork del proyecto de prueba
+fork del proyecto de prueba (desde skpruebas) 
